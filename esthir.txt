@@ -60,7 +60,7 @@ My Way{
     Νότες: Νεράτζι, Βανίλια
 }
 
-Esthir Poison{
+Esthir Poison (Jungle){
     2024
     Κατασκευαστής: Esthir Poison
     Νότες: # Θα το κοιτάξω και θα σου πω.
